@@ -6,4 +6,4 @@ Welcome to pyotato's coding farm 🥑🥔🥕
 
 [![Pyotato's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyotato)](https://github.com/pyotato/github-readme-stats)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyotato)](https://github.com/pyotato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyotato&layout=compact)](https://github.com/pyotato/github-readme-stats)
