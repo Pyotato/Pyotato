@@ -1,6 +1,6 @@
 # Pyotato
 
-안녕하세요 표혜민입니다. 
+Welcome to pyotato's coding farm 🥑🥔🥕
 
 [![Pyotato's GItHub badge](https://img.shields.io/badge/1st%20%20badge-firstbadge-lavender)](https://github.com/pyotato/github-readme-stats)
 
