@@ -8,9 +8,3 @@ Welcome to pyotato's coding farm 🥑🥔🥕
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyotato&layout=compact)](https://github.com/pyotato/github-readme-stats)
 
-<a href="https://github.com/pyotat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pyotato&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/pyotato/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pyotato&repo=convoychat" />
-</a>
