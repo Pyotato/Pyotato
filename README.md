@@ -14,7 +14,7 @@
   
 <!-- <div align="center">
   
-  <img align="left" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
+  <img align="left" width="80" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
   
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyotato)]([https://solved.ac/cba06130](https://solved.ac/profile/pyotato)/)
   <img align="right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
