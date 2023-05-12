@@ -1,7 +1,7 @@
  # Pyotato 🥑🥔🥕
  
  
- <img align="center" width="800" src="https://gifdb.com/images/file/cat-farmer-holding-a-bucket-0bm2y6ixso3dvmiy.gif"/>
+ <img align="left" width="500" src="https://gifdb.com/images/file/cat-farmer-holding-a-bucket-0bm2y6ixso3dvmiy.gif"/>
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:b7dda5,100:eab676&height=300&section=header&text=Welcome%20to%20pyotato's%20coding%20farm&fontSize=40&animation=fadeIn&strokeWidth=2)
 
@@ -22,4 +22,4 @@
  
 </div>-->
 
-![Pyotato's GitHub stats](https://github-readme-stats-i23x.vercel.app/api?username=pyotato&theme=gruvbox_light&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats-i23x.vercel.app/api/top-langs/?username=pyotato&layout=compact)](https://github.com/pyotato/github-readme-stats)
+![Pyotato's GitHub stats](https://github-readme-stats-i23x.vercel.app/api?username=pyotato&theme=gruvbox_light&show_icons=true)  [![Top Langs](https://github-readme-stats-i23x.vercel.app/api/top-langs/?username=pyotato&layout=compact)](https://github.com/pyotato/github-readme-stats)
