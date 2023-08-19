@@ -1,7 +1,7 @@
  # Pyotato 🥑🥔🥕
-<div align="center">
+<!--<div align="center">
  <img align="center" width="500" src="https://gifdb.com/images/file/cat-farmer-holding-a-bucket-0bm2y6ixso3dvmiy.gif"/>
-</div>
+</div>-->
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:b7dda5,100:eab676&height=300&section=header&text=Welcome%20to%20pyotato's%20coding%20farm&fontSize=40&animation=fadeIn&strokeWidth=2)
 
