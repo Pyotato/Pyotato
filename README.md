@@ -19,6 +19,7 @@
   <img align="right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif"/>
  
 </div> -->
- ![Pyotato's GitHub stats](https://github-readme-stats-i23x.vercel.app/api?username=pyotato&theme=gruvbox_light&show_icons=true)    [![Top Langs](https://github-readme-stats-i23x.vercel.app/api/top-langs/?username=pyotato&layout=compact)](https://github.com/pyotato/github-readme-stats)
+ ![Pyotato's GitHub stats](https://github-readme-stats-i23x.vercel.app/api?username=pyotato&theme=gruvbox_light&show_icons=true)    
+ [![Top Langs](https://github-readme-stats-i23x.vercel.app/api/top-langs/?username=pyotato&layout=compact)](https://github.com/pyotato/github-readme-stats)
 
 
